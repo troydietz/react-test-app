@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+.idea/
+react-test-app.iml
